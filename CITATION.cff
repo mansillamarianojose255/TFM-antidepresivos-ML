@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Si utiliza este código, cite este repositorio y el Trabajo Fin de Máster asociado."
+title: "Código reproducible del TFM: análisis predictivo del uso de antidepresivos mediante Machine Learning y datos GWAS"
+type: software
+authors:
+  - family-names: "Mansilla"
+    given-names: "Mariano José"
+version: 1.0.0
+date-released: 2026-09-16
